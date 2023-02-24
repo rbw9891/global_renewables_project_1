@@ -2,6 +2,10 @@
 
 Here in lies the repository for our first group project; Global Renewables
 
+## Members
+
+Reid Walker, Nicholas Walker, Svea Sharaf
+
 ## Contents
 
 ### global_renewable_cleaning
